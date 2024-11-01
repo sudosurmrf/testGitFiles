@@ -28,3 +28,5 @@ console.log(n1.odds());
 
 
 // added this line for a merge conflict
+
+//added this line as well for the second conflict
