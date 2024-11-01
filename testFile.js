@@ -26,4 +26,4 @@ const n1 = new Numbers(str);
 console.log(n1.odds());
 
 
-//this is for line one
+//SEcond conflict that should cuase an error.
