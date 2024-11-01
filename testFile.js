@@ -24,3 +24,7 @@ class Numbers {
 const n1 = new Numbers(str);
 
 console.log(n1.odds());
+
+
+
+// added this line for a merge conflict
